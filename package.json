@@ -1,0 +1,17 @@
+{
+  "name": "thabronx2protector",
+  "version": "1.0.0",
+  "description": "this Bot is a Custom Bot made to protect Tha-Bronx-2 cause um they getting nuked badly so now im here making a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "unknowntcp",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "mv": "^2.1.1"
+  }
+}
